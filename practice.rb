@@ -1,5 +1,5 @@
-def greeting(x)
-  puts "Hello, {x}"
+def greeting(name)
+  puts "Hello, #{name}"
 end
 
 puts greeting("cole")
