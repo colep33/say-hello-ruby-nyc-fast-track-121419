@@ -7,3 +7,4 @@ def say_hello
 end
 
 puts say_hello
+puts say_hello("cole")
