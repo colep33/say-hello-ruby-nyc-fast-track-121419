@@ -5,3 +5,5 @@ end
 def say_hello(default)
   puts "Hello Ruby Programmer!"
 end
+
+puts say_hello
